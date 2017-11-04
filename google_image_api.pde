@@ -2,9 +2,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 
 ArrayList<String> urls = new ArrayList<String>();
-PImage image;
 int index = 0;
-
 
 void setup() {
   size(900, 900);
